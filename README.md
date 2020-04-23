@@ -1,43 +1,13 @@
-# Lesson Title
+# Upgrade Your React Project
 
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
+- Complete Mod 4 lab content
+- Add/finish features and stretch goals
+- Refactor code using updated React syntax - hooks, context, 
+- User sign-up and login with JWT authentication
+- [Make your app accessible](https://dev.to/sylwiavargas/checklist-web-accessibility-3abl)
+- Turn your app into a Progressive Web App using [Google’s documentation][goog] and [Lighthouse](https://github.com/googlechrome/lighthouse)
+- Refactor
+- Deploy backend to Heroku, frontend to GitHub pages
+- Record Demo
 
-## Learning Goals
-
-- [Check out this Readme on writing Learning Goals][goals]
-
-## Introduction
-
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
-
-## Contents
-
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
-
-Refer to [this guide for assistance when writing Readmes][readmes]
-
-## Conclusion
-
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
-
-## Resources
-
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
-
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
-
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+[goog]: https://developers.google.com/web/fundamentals/architecture/app-shell
