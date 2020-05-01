@@ -3,7 +3,7 @@
 ## Introduction
 
 Being able to build applications in React is a skill currently in high demand.
-Your final project plays a key roll in showing potential employerst that you
+Your final project plays a crucial roll in showing potential employers that you
 have this skill. Below are some suggestions for what you can do to upgrade your
 React project.
 
@@ -15,24 +15,24 @@ React project.
 
 As your final project, your React app should be a shining example of your
 programming skills. Refactoring your app will not only help you review what
-you've learned, but gives you an opportunity to show that you are thoughful
-about structure and readability. One specific challenge for React - components.
-Components are flexible enough that we could theoretically build our whole app
-in a single one. It is also possible to go to the opposite extreme and have tons
-of small components. Refactoring provides an opportunity to find a happy medium:
-components that follow logical and readable design patterns. The official React
-documentation provides [a guide on thinking in React][] that might help in
-identifying what to refactor in your project. In addition, keep the following
-questions in mind while refactoring:
+you've learned, but allows you to show that you are thoughtful about structure
+and readability. One specific challenge for React - components. Components are
+flexible enough that we could theoretically build our whole app in a single one.
+It is also possible to go to the opposite extreme and have tons of small
+components. Refactoring provides an opportunity to find a happy medium:
+configuring components so they follow logical and readable design patterns. The
+official React documentation provides [a guide on thinking in React][] that
+might help in identifying what to refactor in your project. Also, keep
+the following questions in mind while refactoring:
 
 - **Is the code DRY? Is there any redundant content that could be reduced or
   abstracted?** Sometimes, it is easier to duplicate code in multiple components
-  than reorganizing the heirarchy of components. Take some time to clean up any
+  than reorganizing the hierarchy of components. Take some time to clean up any
   repetitive patterns in your code. You might discover a better, more
   understandble structure for your components that reduces the need for extra code.
 - **Can you spot and unnecessary or overly complicated code?** Along similar
   lines, the component structure can sometimes lead to convoluted code as we try
-  to get features to work. Sometimes, we try things until something sticks.
+  to get features to work. Occasionally, we try things until something sticks.
   Sometimes, the moment a piece of code works, we move on to the next task
   without reconsidering what we've written. Now is the time to look back and
   find examples of this in your project.
@@ -74,7 +74,7 @@ For your CSS:
   grasp how complicated the code behind it is, but they can definitely recognize
   if it is well-designed.
 - Make your app responsive. Using [media queries][], design your
-  project so it looks good regardless of whichever device it is being viewed on.
+  project so that it looks good regardless of whichever device it is being viewed on.
 
 [media queries]: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 
@@ -96,7 +96,7 @@ specific ideas on how you can make _your project_ more accessible,
 ## Turn Your App into a Progressive Web App
 
 [Progressive Web Apps][] follow specific standards for making a web app function
-in a similar way to applications built to natively on a specific operating
+in a similar way to applications built to natively on a particular operating
 system. Among other things, this includes building an application that is
 functional even if a user is offline or on a poor internet connection.
 
@@ -104,7 +104,7 @@ If you used [Create React App][] to start your project, some PWA functionality
 is already provided and ready to implement. To learn more about how to convert
 your app into a Progressive Web App, [check out this guide][pwa guide].
 
-In addition, Google provides a tool that can help you implement your PWA called
+Google also provides a tool that can help you implement your PWA called
 [Lighthouse][]. Lighthouse audits your project for performance and
 accessibility.
 
@@ -142,8 +142,8 @@ have utilized over the years. They also
 > - **Open your app using a variety of devices and browsers**.
 > - **Share the app with some friends and ask them to play around with it**. You
 >   might know how things are supposed to work, but giving your app to someone
->   else can identify unexpected user behaviors. Better that your friends find
->   bugs and not a potential employer.
+>   else can identify unexpected user behaviors. Better your friends find
+>   bugs than a potential employer.
 >
 > Deploying your app is a big plus for building your online presence, but
 > **deploying a broken app can be worse than not deploying anything!**
